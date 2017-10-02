@@ -1,0 +1,21 @@
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\bin\Debug\MonitorBrowserTime.exe.config
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\bin\Debug\MonitorBrowserTime.exe
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\bin\Debug\MonitorBrowserTime.pdb
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.csprojResolveAssemblyReference.cache
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.Form1.resources
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.Properties.Resources.resources
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.csproj.GenerateResource.Cache
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.exe
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.pdb
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.csproj.CoreCompileInputs.cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\bin\Debug\MonitorBrowserTime.exe.config
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\bin\Debug\MonitorBrowserTime.exe
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\bin\Debug\MonitorBrowserTime.pdb
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.csprojResolveAssemblyReference.cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.Form1.resources
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.Form2.resources
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.Properties.Resources.resources
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.csproj.GenerateResource.Cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.csproj.CoreCompileInputs.cache
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.exe
+E:\SEFD Stuff\SEFD - 2017\Super Function!\Get Back To Work\MonitorBrowserTime\MonitorBrowserTime\obj\Debug\MonitorBrowserTime.pdb
